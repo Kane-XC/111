@@ -1,0 +1,2 @@
+# diabetic_retinopathy
+using mobilenet_v2 solve diabetic_retinopathy detection
